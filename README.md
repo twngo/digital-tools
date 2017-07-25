@@ -1,6 +1,5 @@
-# digital-tools
-## NGO/ NPO 數位網路工具滙整清單
-digital tools for NGOs/NPOs
+# NGO/ NPO 數位網路工具滙整清單
+## digital tools for NGOs/NPOs
 
 ## 計畫源起說明
 
