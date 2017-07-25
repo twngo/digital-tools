@@ -4,7 +4,7 @@ digital tools for NGOs/NPOs
 
 ## 計畫源起說明
 
-2017 7/25 NGO 網路數位資源電子報
+[2017 7/25 NGO 網路數位資源電子報](https://to.twngo.xyz/2uS11Sb)
 
 [初步整理清單列表](https://docs.google.com/spreadsheets/d/1O6M9WpVCP9WqrA3fTTHdkewadncKgXzspvATsqChAEA/edit#gid=239670452) (google spreadsheet)
 
